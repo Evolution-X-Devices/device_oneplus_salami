@@ -1,0 +1,36 @@
+[
+  {
+    "repository": "device_oneplus_sm8550-common",
+    "target_path": "device/oneplus/sm8550-common"
+  },
+  {
+    "repository": "kernel_oneplus_sm8550",
+    "target_path": "kernel/xiaomi/sm8550"
+  },
+  {
+    "repository": "kernel_oneplus_sm8550-modules",
+    "target_path": "kernel/xiaomi/sm8550-modules"
+  },
+  {
+    "repository": "kernel_oneplus_sm8550-devicetrees",
+    "target_path": "kernel/xiaomi/sm8550-devicetrees"
+  },
+  {
+    "repository": "DarkAngelGR/proprietary_vendor_oneplus_sm8550-common",
+    "target_path": "vendor/oneplus/sm8550-common",
+    "remote": "github-non-los",
+    "branch": "udc"
+  },
+  {
+    "repository": "DarkAngelGR/proprietary_vendor_oneplus_salami",
+    "target_path": "vendor/oneplus/salami",
+    "remote": "github-non-los",
+    "branch": "udc"
+  },
+  {
+    "repository": "DarkAngelGR/hardware_oplus",
+    "target_path": "hardware/oplus",
+    "remote": "github-non-los",
+    "branch": "udc"
+  }
+]

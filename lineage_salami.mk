@@ -8,6 +8,12 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit_only.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
+# Evolution-X
+TARGET_HAS_UDFPS := true
+TARGET_BOOT_ANIMATION_RES := 1440
+EVO_BUILD_TYPE := Official
+TARGET_BUILD_APERTURE_CAMERA := true
+
 # Inherit from salami device
 $(call inherit-product, device/oneplus/salami/device.mk)
 
