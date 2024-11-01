@@ -5,15 +5,15 @@
   },
   {
     "repository": "kernel_oneplus_sm8550",
-    "target_path": "kernel/xiaomi/sm8550"
+    "target_path": "kernel/oneplus/sm8550"
   },
   {
     "repository": "kernel_oneplus_sm8550-modules",
-    "target_path": "kernel/xiaomi/sm8550-modules"
+    "target_path": "kernel/oneplus/sm8550-modules"
   },
   {
     "repository": "kernel_oneplus_sm8550-devicetrees",
-    "target_path": "kernel/xiaomi/sm8550-devicetrees"
+    "target_path": "kernel/oneplus/sm8550-devicetrees"
   },
   {
     "repository": "DarkAngelGR/proprietary_vendor_oneplus_sm8550-common",
